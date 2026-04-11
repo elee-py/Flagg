@@ -54,9 +54,6 @@ pip install flask watchdog PyQt6 flask-cors requests psutil
 - Détecte les connexions à haute fréquence (> 10/min vers le même endpoint)
 - Signale les ports non-standard (pas 80/443)
 
-> ⚠️ Les terminaux 2 et 3 doivent être lancés **en tant qu'administrateur**
-> (clic droit → "Exécuter en tant qu'administrateur").
-
 ---
 
 ## Niveaux de sévérité
